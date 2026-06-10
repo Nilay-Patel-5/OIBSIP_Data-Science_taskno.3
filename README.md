@@ -243,6 +243,13 @@ Through this project, I gained practical experience in:
 
 ---
 
+## 🔗 Dataset Source
+
+Kaggle Dataset:
+https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars
+
+---
+
 ## 🚀 How to Run the Project
 
 ### Install Required Libraries
